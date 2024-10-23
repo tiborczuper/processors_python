@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "speed": 3.2,
+    "core": 8,
+    "company": "Intel",
+    "connected_phones": [
+      {
+        "number": 13,
+        "year": 2020,
+        "model": "Dell tablet"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "speed": 4.5,
+    "core": 6,
+    "company": "Snapdragon",
+    "connected_phones": [
+      {
+        "number": 19,
+        "year": 2021,
+        "model": "Csamcsung galagzi 86++++"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "speed": 4.2,
+    "core": 6,
+    "company": "Apple",
+    "connected_phones": [
+      {
+        "number": 10,
+        "year": 2022,
+        "model": "macbook pro m1"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "speed": 5.2,
+    "core": 10,
+    "company": "Snapdragon",
+    "connected_phones": [
+      {
+        "number": 12,
+        "year": 2015,
+        "model": "Csamcsung galagzi 102"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "speed": 1.4,
+    "core": 2,
+    "company": "Qualcomm",
+    "connected_phones": [
+      {
+        "number": 20,
+        "year": 2015,
+        "model": "BlackBerry"
+      }
+    ]
+  }
+]
